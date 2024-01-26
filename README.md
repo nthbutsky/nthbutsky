@@ -1,7 +1,9 @@
 ![Banner](https://github.com/nthbutsky/nthbutsky/assets/30866948/00e6b19b-d216-47f7-82c1-c59e2de0535d)
 
 <h1 align="center">Hey there, I'm a web developer and problem-solver.</h1>
-<h3 align="center">At the crossroads of creativity and technology, I design the future through a lens of innovation and passion.</h3>
+<h3 align="center">At the crossroads of creativity and technology, 
+  <br> I design the future through a lens of innovation and passion.
+</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
