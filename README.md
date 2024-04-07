@@ -48,7 +48,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nthbutsky&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="nthbutsky" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nthbutsky&label=Profile%20views&color=0e75b6&style=flat" alt="nthbutsky" />
-</p>
